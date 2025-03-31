@@ -1,1 +1,2 @@
-# Nikitaa-P
+# Nikitaa-P 
+Cześć jestem Nikitaa
